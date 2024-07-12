@@ -14,7 +14,6 @@
   - https://github.com/Romaine91/Azure-Computing-and-Networking
 
 <h2>🤳Connect with me:</h2>
-
 [twitter]: https://twitter.com/Itz_Ro91
 [instagram]: https://www.instagram.com/Romaine91
 [linkedin]: https://linkedin.com/in/romaine-eldridge-92735780
