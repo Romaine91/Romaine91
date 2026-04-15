@@ -1,4 +1,7 @@
 <h1>Hi, I'm Romaine, an <a href="https://linkedin.com/in/romaine-eldridge-92735780">IT Professional</a>☺</h1>
+Per Scholas - CompTIA A+ Labs
+
+https://github.com/Romaine91/Per-Scholas-Labs.git
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
