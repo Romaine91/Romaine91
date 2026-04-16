@@ -1,4 +1,4 @@
-<h1>Hi, I'm Romaine, an <a href="https://linkedin.com/in/romaine-eldridge-92735780">IT Professional & CompTIA A+ Certified </a>☺</h1>
+<h1>Hi, I'm Romaine, an <a href="https://linkedin.com/in/romaine-eldridge-92735780"> CompTIA A+ Certified IT Professional </a>☺</h1>
 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
 
