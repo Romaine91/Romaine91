@@ -1,10 +1,36 @@
-<h1>Hi, I'm Romaine, an <a href="https://linkedin.com/in/romaine-eldridge-92735780">IT Professional</a>☺</h1>
+<h1>Hi, I'm Romaine, an <a href="https://linkedin.com/in/romaine-eldridge-92735780">IT Professional & CompTIA A+ </a>☺</h1>
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
+
+Labs I`ve completed during Per Scholas 15-week bootcamp!
 
 
 
 
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/fd46db21-d7de-4007-8c19-c60f29542b9f" />
+1. This tutorial outlines the installation of Windows and solving upgrade issues.
+
+https://github.com/Romaine91/Per-Scholas-Labs/commit/0ea3decd940c46bffb5ac3a4e2788a485533146f
+
+2. This tutorial outlines managing IaaS VMs in Azure that run Windows Server
+
+https://github.com/Romaine91/Per-Scholas-Labs/commit/0ea3decd940c46bffb5ac3a4e2788a485533146f
+
+3. This tutorial outlines Troubleshooting Power Supply Problems
+
+https://github.com/Romaine91/Per-Scholas-Labs/commit/f3e7bd1e9256f27507960e208022c19b4f9d897c
+
+4. This tutorial outlines Access Control List configuration
+
+https://github.com/Romaine91/Per-Scholas-Labs/commit/7c37c225e403af70ecc3d5f91b4a80d98f67e49f
+
+5. This tutorial outlines managing IaaS VMs in Azure that run Windows Server.
+
+https://github.com/Romaine91/Per-Scholas-Labs/commit/a77df7fb167a29f9719f234301236c94d2a4f1f6
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fd46db21-d7de-4007-8c19-c60f29542b9f" />
 
 
 
@@ -25,11 +51,10 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/Itz_Ro91
+
 [instagram]: https://www.instagram.com/Romaine91
 [linkedin]: https://linkedin.com/in/romaine-eldridge-92735780
