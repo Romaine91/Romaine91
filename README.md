@@ -1,16 +1,13 @@
 <h1>Hi, I'm Romaine, an <a href="https://linkedin.com/in/romaine-eldridge-92735780"> CompTIA A+ Certified IT Professional </a>☺</h1>
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
 
 Labs I`ve completed during Per Scholas 15-week bootcamp!
 
 
-
-
-
 1. This tutorial outlines the installation of Windows and solving upgrade issues.
 
-https://github.com/Romaine91/Per-Scholas-Labs/commit/0ea3decd940c46bffb5ac3a4e2788a485533146f
+Lab 16.3/Support Windows Installation and Upgrade Issues.md
 
 2. This tutorial outlines managing IaaS VMs in Azure that run Windows Server
 
