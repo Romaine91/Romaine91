@@ -7,10 +7,10 @@ Labs I`ve completed during Per Scholas 15-week bootcamp!
 
 
 1. This tutorial outlines the installation of Windows and solving upgrade issues.
+   
+https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788a485533146f/Lab%2016.3/Support%20Windows%20Installation%20and%20Upgrade%20Issues.md
 
-   https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788a485533146f/Lab%2016.3/Support%20Windows%20Installation%20and%20Upgrade%20Issues.md
-
-2. This tutorial outlines managing IaaS VMs in Azure that run Windows Server
+3. This tutorial outlines managing IaaS VMs in Azure that run Windows Server
 
 https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788a485533146f/Lab%2019.1.10/Configure%20Domain%20Account%20Security.md
 
