@@ -2,6 +2,7 @@
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
 
+
 Labs I`ve completed during Per Scholas 15-week bootcamp!
 
 
@@ -9,21 +10,21 @@ Labs I`ve completed during Per Scholas 15-week bootcamp!
    
 https://github.com/Romaine91/Per-Scholas-Labs/tree/0ea3decd940c46bffb5ac3a4e2788a485533146f/Lab%2016.3
 
-3. This tutorial outlines managing IaaS VMs in Azure that run Windows Server
+2. This tutorial outlines managing IaaS VMs in Azure that run Windows Server
 
-https://github.com/Romaine91/Per-Scholas-Labs/commit/0ea3decd940c46bffb5ac3a4e2788a485533146f
+https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788a485533146f/Lab%2019.1.10/Configure%20Domain%20Account%20Security.md
 
 3. This tutorial outlines Troubleshooting Power Supply Problems
 
-https://github.com/Romaine91/Per-Scholas-Labs/commit/f3e7bd1e9256f27507960e208022c19b4f9d897c
+https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788a485533146f/Lab%203.1.9/Troubleshoot%20Power%20Supply%20Problems.md
 
 4. This tutorial outlines Access Control List configuration
 
-https://github.com/Romaine91/Per-Scholas-Labs/commit/7c37c225e403af70ecc3d5f91b4a80d98f67e49f
+https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788a485533146f/Lab%206.2.4/ACL%20Demonstration.md
 
 5. This tutorial outlines managing IaaS VMs in Azure that run Windows Server.
 
-https://github.com/Romaine91/Per-Scholas-Labs/commit/a77df7fb167a29f9719f234301236c94d2a4f1f6
+https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788a485533146f/Lab%208.2.6/Manage%20IaaS%20Virtual%20Machines%20(VMs)%20in%20Azure%20That%20Run%20Windows%20Server.md
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
