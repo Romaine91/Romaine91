@@ -28,7 +28,7 @@ https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fd46db21-d7de-4007-8c19-c60f29542b9f" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fd46db21-d7de-4007-8c19-c60f29542b9f" />
 
 
 
