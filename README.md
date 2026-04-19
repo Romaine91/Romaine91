@@ -1,6 +1,6 @@
 <h1>Hi, I'm Romaine, an <a href="https://linkedin.com/in/romaine-eldridge-92735780"> CompTIA A+ Certified IT Professional </a>☺</h1>
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
 
 
 Labs I`ve completed during Per Scholas 15-week bootcamp!
