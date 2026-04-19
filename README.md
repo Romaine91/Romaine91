@@ -1,6 +1,6 @@
 <h1>Hi, I'm Romaine, an <a href="https://linkedin.com/in/romaine-eldridge-92735780"> CompTIA A+ Certified IT Professional </a>☺</h1>
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/314447b3-983c-45ce-b6c1-00c57d0a3bb6" /> 
 
 
 Labs I`ve completed during Per Scholas 15-week bootcamp!
@@ -28,7 +28,7 @@ https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fd46db21-d7de-4007-8c19-c60f29542b9f" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/fd46db21-d7de-4007-8c19-c60f29542b9f" />
 
 
 
@@ -51,8 +51,11 @@ https://github.com/Romaine91/Per-Scholas-Labs/blob/0ea3decd940c46bffb5ac3a4e2788
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<a href="https://www.credly.com/users/romaine-eldridge/badges#credly" target="_blank">
+  <img align="left" alt="Romaine Eldridge | Credly" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/credly.svg" />
+</a>
 
 
 [instagram]: https://www.instagram.com/Romaine91
 [linkedin]: https://linkedin.com/in/romaine-eldridge-92735780
+[Credly]: https://www.credly.com/users/romaine-eldridge/badges#credly
